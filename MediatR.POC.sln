@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatR.POC.Web", "MediatR.POC.Web\MediatR.POC.Web.csproj", "{E7078CFD-1845-4951-B816-162EFBC14E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatR.POC.Core", "MediatR.POC.Core\MediatR.POC.Core.csproj", "{64FEF319-BB08-48AC-9720-CD04663B1D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatR.POC.Infrastructure", "MediatR.POC.Infrastructure\MediatR.POC.Infrastructure.csproj", "{7DB2A3E7-F7B8-44D8-B3C5-12C432EFAE3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7078CFD-1845-4951-B816-162EFBC14E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7078CFD-1845-4951-B816-162EFBC14E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7078CFD-1845-4951-B816-162EFBC14E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7078CFD-1845-4951-B816-162EFBC14E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64FEF319-BB08-48AC-9720-CD04663B1D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FEF319-BB08-48AC-9720-CD04663B1D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FEF319-BB08-48AC-9720-CD04663B1D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FEF319-BB08-48AC-9720-CD04663B1D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB2A3E7-F7B8-44D8-B3C5-12C432EFAE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB2A3E7-F7B8-44D8-B3C5-12C432EFAE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB2A3E7-F7B8-44D8-B3C5-12C432EFAE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB2A3E7-F7B8-44D8-B3C5-12C432EFAE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
